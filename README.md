@@ -9,3 +9,5 @@ This repo is my pathetic attempt to solve the [Euler project](https://projecteul
 4. [Problem 4](https://projecteuler.net/problem=4) | [Solution](./code/problem4_palindrome_product.py): 906609 = 993 x 913
    
 5. [Problem 5](https://projecteuler.net/problem=5) | [Solution](./code/problem5_lcm.py): 232792560
+   
+6. [Problem 6](https://projecteuler.net/problem=6) | [Solution](./code/problem6_square_difference.py): 25164150
